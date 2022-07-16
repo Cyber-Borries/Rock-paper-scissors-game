@@ -59,7 +59,7 @@ console.log("You have won " + playerWinCount + " rounds");
 console.log("The computer has won " + computerWinCount + " rounds");
 
 function game() {
-  for (let i = 0; i < 5; i++) {
+  for (let i = 1; i < 5; i++) {
     playerSelection = prompt(
       "Please write rock, paper or scissors"
     ).toLocaleLowerCase();
