@@ -3,7 +3,7 @@ This basic JavaScript console game was designed as part of the Front End Develop
 
 The game is played via de developer console. 
 
-The game can be played [here] (https://cyber-borries.github.io/Rock-paper-scissors-game/)
+The game can be played [here](https://cyber-borries.github.io/Rock-paper-scissors-game/)
 
 # How to play:
 
